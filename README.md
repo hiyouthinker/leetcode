@@ -1,2 +1,3 @@
-# leetcode
-leetcode website: https://leetcode-cn.com
+# 简介
+本目录存放leetcode部分题的答案，所有源码均为C语言实现，并且代码已经leetcode验证通过。
+注：尽管已经leetcode验证通过，但很多代码仍有进一步优化的余地（无论代逻辑还是性能方面）。另外，对于一个问题，本人尽量采用多种方式实现。
